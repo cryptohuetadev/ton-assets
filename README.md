@@ -552,6 +552,8 @@ Name           | Address
 [ЖЮ](https://tonviewer.com/0:ff2a93b6fa215e1cf4f8745d2eafd13488016db367f08694762a3c009982a971) | EQD_KpO2-iFeHPT4dF0ur9E0iAFts2fwhpR2KjwAmYKpccvH
 [Кот Матроскин](https://tonviewer.com/0:8723c7ea218f6330882e41324f8e6f3f1ff641219d9c9d5f31e258067397b898) | EQCHI8fqIY9jMIguQTJPjm8_H_ZBIZ2cnV8x4lgGc5e4mOCb
 [Крокодил Гена](https://tonviewer.com/0:7c1502a42e054432a7ed50103b9b53926acdfcf81f046bf716aefb04a4c33ee1) | EQB8FQKkLgVEMqftUBA7m1OSas38-B8Ea_cWrvsEpMM-4TG1
+[McTONalds](https://tonviewer.com/EQCq83lKlzQrENPzvp7ubQ1NRN7G9sqY0YFuHcaix0JYoqfP)| EQCq83lKlzQrENPzvp7ubQ1NRN7G9sqY0YFuHcaix0JYoqfP
+
 [Шапокляк](https://tonviewer.com/0:dae7ec8ede6d0fa22b80683b51b8d9bf33f9d43240355f7a7d7302978e4dbae8) | EQDa5-yO3m0PoiuAaDtRuNm_M_nUMkA1X3p9cwKXjk266NL7
 [матрёшка](https://tonviewer.com/0:905737d037268c177108eaed19b7b51672deaee90545de7fa73d406ed07aa979) | EQCQVzfQNyaMF3EI6u0Zt7UWct6u6QVF3n-nPUBu0HqpedY-
 [чебурашка](https://tonviewer.com/0:01c45623198e2ab98476c124a5b6263b99ff4b00d222aed93fbbff88f5e88246) | EQABxFYjGY4quYR2wSSltiY7mf9LANIirtk_u_-I9eiCRiry
