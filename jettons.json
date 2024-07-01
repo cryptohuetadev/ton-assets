@@ -3331,4 +3331,10 @@
   "name": "Tonstakers TON",
   "symbol": "tsTON"
  }
-]
+ },
+ {
+  "address": "0:EQCq83lKlzQrENPzvp7ubQ1NRN7G9sqY0YFuHcaix0JYoqfP",
+  "image": "https://github.com/cryptohuetadev/mcton/blob/main/IMG_1979.PNG?raw=true",
+  "name": "McTONalds",
+  "symbol": "McTON"
+ }
